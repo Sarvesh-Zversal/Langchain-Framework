@@ -14,3 +14,7 @@ langchain_huggingface
 faiss-cpu
 beautifulsoup4
 streamlit
+fastapi
+uvicorn
+langserve
+sse-starlette
